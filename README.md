@@ -1,2 +1,3 @@
 # LS-Writing-Competition
-Littlestar Magazine Writing Competition Website
+
+Website for Littlestar Magazine's Writing Competition made with HTML/CSS and PHP
